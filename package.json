@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "sass": "^1.77.6"
+  },
+  "name": "emojiflex",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/sass/style.scss ./public/css/style.css",
+    "sass-w": "sass --watch ./src/sass/style.scss ./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piperiver97/EmojiFlex.git"
+  },
+  "author": "felipe riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piperiver97/EmojiFlex/issues"
+  },
+  "homepage": "https://github.com/piperiver97/EmojiFlex#readme"
+}
