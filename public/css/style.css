@@ -1,8 +1,9 @@
-.maincont {
+.container {
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
   width: 80%;
+  background-color: rgb(35, 24, 36);
 }
 
 .contemoji {
